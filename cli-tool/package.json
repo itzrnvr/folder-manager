@@ -1,0 +1,9 @@
+{
+    "name": "cli-tool",
+    "version": "1.0.0",
+    "bin": {
+      "folder-manager": "./bin/folder-manager.mjs"
+    },
+    "type": "module"
+  }
+  

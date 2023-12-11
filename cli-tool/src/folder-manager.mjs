@@ -7,9 +7,9 @@ import {
     selectPresetOrAction,
     managePresetsMenu,
     selectPresetToManage,
-  } from '../../src/prompts.js';
+  } from './prompts.mjs';
   import { loadPresets, savePresets, createFolders, deletePreset } from '../../src/filesystem.js';
-  import { animateText } from '../../src/animations.js';
+  import { animateText } from './animations.mjs';
   
   const main = async () => {
     const stopAnimation = animateText('Welcome to Folder Manager');

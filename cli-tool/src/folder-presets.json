@@ -1,0 +1,19 @@
+{
+  "react-features": [
+    "components",
+    "hooks",
+    "services",
+    "store",
+    "utils"
+  ],
+  "reactol": [
+    "start",
+    "stop",
+    "ok",
+    "hh"
+  ],
+  "ncie": [
+    "gg",
+    "hh"
+  ]
+}
